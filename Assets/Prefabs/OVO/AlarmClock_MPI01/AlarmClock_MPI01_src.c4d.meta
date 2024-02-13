@@ -1,0 +1,178 @@
+fileFormatVersion: 2
+guid: bab83dd5e49e53f43aa19fddfafee1c8
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: AlarmClock
+    100002: AlarmClock_11
+    100004: AlarmClock_77
+    100006: AlarmClock_78
+    100008: AlarmClock_79
+    100010: //RootNode
+    100012: Bells
+    100014: Glass
+    100016: Null
+    100018: Number
+    100020: Numbers
+    100022: Pointers
+    100024: Shell
+    100026: Alarm
+    100028: Hour
+    100030: Sec
+    100032: SMinec
+    100034: Min
+    100036: Arrows
+    400000: AlarmClock
+    400002: AlarmClock_11
+    400004: AlarmClock_77
+    400006: AlarmClock_78
+    400008: AlarmClock_79
+    400010: //RootNode
+    400012: Bells
+    400014: Glass
+    400016: Null
+    400018: Number
+    400020: Numbers
+    400022: Pointers
+    400024: Shell
+    400026: Alarm
+    400028: Hour
+    400030: Sec
+    400032: SMinec
+    400034: Min
+    400036: Arrows
+    2100000: Glass
+    2100002: Material.004
+    2100004: metal
+    2100006: No Name
+    2100008: darkmetal
+    2100010: Numbers
+    2300000: AlarmClock_11
+    2300002: AlarmClock_77
+    2300004: AlarmClock_78
+    2300006: AlarmClock_79
+    2300008: Bells
+    2300010: Glass
+    2300012: Number
+    2300014: Numbers
+    2300016: Shell
+    2300018: Alarm
+    2300020: Hour
+    2300022: Sec
+    2300024: SMinec
+    2300026: Min
+    3300000: AlarmClock_11
+    3300002: AlarmClock_77
+    3300004: AlarmClock_78
+    3300006: AlarmClock_79
+    3300008: Bells
+    3300010: Glass
+    3300012: Number
+    3300014: Numbers
+    3300016: Shell
+    3300018: Alarm
+    3300020: Hour
+    3300022: Sec
+    3300024: SMinec
+    3300026: Min
+    4300000: Glass
+    4300002: Shell
+    4300004: Bells
+    4300006: AlarmClock_11
+    4300008: AlarmClock_77
+    4300010: AlarmClock_78
+    4300012: AlarmClock_79
+    4300014: Numbers
+    4300016: Number
+    4300018: Sec
+    4300020: Hour
+    4300022: SMinec
+    4300024: Alarm
+    4300026: Min
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

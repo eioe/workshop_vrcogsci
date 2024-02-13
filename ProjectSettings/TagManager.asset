@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - SceneCam
+  - SceneCam2
+  - EmilView
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Hidden
+  - Water
+  - UI
+  - ControlUI
+  - CamOverlay
+  - GazeCollision
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Teleport
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: GazeVis
+    uniqueID: 3967607667
+    locked: 0

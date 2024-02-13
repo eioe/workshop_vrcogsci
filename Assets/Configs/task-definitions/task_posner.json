@@ -1,0 +1,18 @@
+{
+	"type": "Task",
+	"subType": "Posner",
+	"settings": [{
+			"key": "reference_frame",
+			"value": "Head"
+		}],
+	"instructions": [{
+			"key": "_start",
+			"value": "We are doing the Posner task."
+		}, {
+			"key": "_start",
+			"value": "Please pay attention."
+		}, {
+			"key": "_end",
+			"value": "Done! Thank you."
+		}]
+}

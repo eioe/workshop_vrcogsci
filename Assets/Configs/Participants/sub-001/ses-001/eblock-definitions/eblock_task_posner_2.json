@@ -1,0 +1,46 @@
+{
+	"type": "Task",
+	"subType": "Posner",
+	"blockId": "EBlock_Task_Posner_2",
+	"settings": [{
+			"key": "cueDur",
+			"value": "0.15"
+		}, {
+			"key": "isiDur",
+			"value": "0.15"
+		}],
+	"instructions": [{
+			"key": "_start",
+			"value": "Now the objects will appear far out."
+		}],
+	"trialSettings": {
+		"keys": ["cueCond", "cueDir", "cueValid", "targetDir", "targetObjIdx", "distractorCond", "distractorObjIdx", "ecc"],
+		"valueList": [{
+				"values": ["endo", "right", "true", "right", 3, "none", "none", "50"]
+			}, {
+				"values": ["endo", "right", "true", "right", 2, "none", "none", "50"]
+			}, {
+				"values": ["endo", "right", "true", "right", 4, "none", "none", "50"]
+			}, {
+				"values": ["endo", "right", "true", "right", 4, "none", "none", "50"]
+			}, {
+				"values": ["endo", "right", "false", "left", 4, "none", "none", "50"]
+			}, {
+				"values": ["endo", "right", "false", "left", 2, "none", "none", "50"]
+			}, {
+				"values": ["endo", "left", "true", "left", 4, "none", "none", "50"]
+			}, {
+				"values": ["endo", "right", "true", "right", 1, "none", "none", "50"]
+			}, {
+				"values": ["endo", "right", "true", "right", 1, "none", "none", "50"]
+			}, {
+				"values": ["endo", "right", "true", "right", 2, "none", "none", "50"]
+			}, {
+				"values": ["endo", "right", "true", "right", 2, "none", "none", "50"]
+			}, {
+				"values": ["endo", "left", "true", "left", 0, "none", "none", "50"]
+			}, {
+				"values": ["endo", "left", "true", "left", 0, "none", "none", "50"]
+			}]
+	}
+}

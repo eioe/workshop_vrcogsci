@@ -1,0 +1,297 @@
+fileFormatVersion: 2
+guid: cc1eecfba64912e479708056e875b994
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    400000: //RootNode
+    2100000: CrayonBox__BoxUVs_psd
+    2100002: CrayonBox_Inside
+    2100004: Crayon_Orange
+    2100006: Crayon_White
+    2100008: Crayon_CarnationPink
+    2100010: Crayon_YellowOrange
+    2100012: Crayon_BlueGreen
+    2100014: Crayon_RedViolet
+    2100016: Crayon_RedOrange
+    2100018: Crayon_YellowGreen
+    2100020: Crayon_BlueViolet
+    2100022: Crayon_Purple
+    2100024: Crayon_Green
+    2100026: Crayon_Brown
+    2100028: Crayon_Blue
+    2100030: Crayon_Yellow
+    2100032: Crayon_Red
+    2100034: Crayon_Black
+    2100036: Wrapper_Orange__untitled
+    2100038: Wrapper_Brown__untitled
+    2100040: Wrapper_Blue__untitled
+    2100042: Wrapper_Yellow__untitled
+    2100044: Wrapper_Red__untitled
+    2100046: Wrapper_Purple__untitled
+    2100048: Wrapper_Green__untitled
+    2100050: Wrapper_Black__untitled
+    2100052: Wrapper_White__untitled
+    2100054: Wrapper_CarnationPink__untitled
+    2100056: Wrapper_BlueGreen__untitled
+    2100058: Wrapper_RedViolet__untitled
+    2100060: Wrapper_RedOrange__untitled
+    2100062: Wrapper_YellowGreen__untitled
+    2100064: Wrapper_BlueViolet__untitled
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: Crayons
+    7400000: Default Take
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CrayonBox_Inside
+    second: {fileID: 2100000, guid: 6e34925d2262a434297393d4001fd11d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CrayonBox__BoxUVs_psd
+    second: {fileID: 2100000, guid: a60a5a610d380fe4bbf8860cbeb3b1c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Crayon_Black
+    second: {fileID: 2100000, guid: 076b8d9cbda79784da419ffafbd2900d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Crayon_Blue
+    second: {fileID: 2100000, guid: 40870226d3e0f154d9c11581d104c4a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Crayon_BlueGreen
+    second: {fileID: 2100000, guid: e645c2ab21ee7d549a39182d75ba577e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Crayon_BlueViolet
+    second: {fileID: 2100000, guid: 937dceacb8f829443b34d341ef6585ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Crayon_Brown
+    second: {fileID: 2100000, guid: fd40faff41600484381259774b9de38b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Crayon_CarnationPink
+    second: {fileID: 2100000, guid: 5cbbbdbb0b73e3b4d9f7227e6c7d9c6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Crayon_Green
+    second: {fileID: 2100000, guid: 4482ea0a08c790b48b25f93bdf565f56, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Crayon_Orange
+    second: {fileID: 2100000, guid: c8884164d4aba50488c493ec4e796bcb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Crayon_Purple
+    second: {fileID: 2100000, guid: bbf205791f26f83449b7f56f3a50907f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Crayon_Red
+    second: {fileID: 2100000, guid: 12f5b92d0620fe8478169730560be90f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Crayon_RedOrange
+    second: {fileID: 2100000, guid: b50edfd171af15241abf33a3e6140720, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Crayon_RedViolet
+    second: {fileID: 2100000, guid: 0cc9df0244800ea448513ff77f8f8140, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Crayon_White
+    second: {fileID: 2100000, guid: d6f18bf0b7d8cff42ad318493a6823e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Crayon_Yellow
+    second: {fileID: 2100000, guid: 14fa272df02eb0d4cba5b8f09b34b25d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Crayon_YellowGreen
+    second: {fileID: 2100000, guid: d266d4b9b2c28af4c8e168974549a870, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Crayon_YellowOrange
+    second: {fileID: 2100000, guid: d266d4b9b2c28af4c8e168974549a870, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wrapper_Black__untitled
+    second: {fileID: 2100000, guid: 076b8d9cbda79784da419ffafbd2900d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wrapper_BlueGreen__untitled
+    second: {fileID: 2100000, guid: e645c2ab21ee7d549a39182d75ba577e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wrapper_BlueViolet__untitled
+    second: {fileID: 2100000, guid: 937dceacb8f829443b34d341ef6585ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wrapper_Blue__untitled
+    second: {fileID: 2100000, guid: 40870226d3e0f154d9c11581d104c4a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wrapper_Brown__untitled
+    second: {fileID: 2100000, guid: fd40faff41600484381259774b9de38b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wrapper_CarnationPink__untitled
+    second: {fileID: 2100000, guid: 5cbbbdbb0b73e3b4d9f7227e6c7d9c6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wrapper_Green__untitled
+    second: {fileID: 2100000, guid: 4482ea0a08c790b48b25f93bdf565f56, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wrapper_Orange__untitled
+    second: {fileID: 2100000, guid: c8884164d4aba50488c493ec4e796bcb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wrapper_Purple__untitled
+    second: {fileID: 2100000, guid: bbf205791f26f83449b7f56f3a50907f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wrapper_RedOrange__untitled
+    second: {fileID: 2100000, guid: b50edfd171af15241abf33a3e6140720, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wrapper_RedViolet__untitled
+    second: {fileID: 2100000, guid: 0cc9df0244800ea448513ff77f8f8140, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wrapper_Red__untitled
+    second: {fileID: 2100000, guid: 12f5b92d0620fe8478169730560be90f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wrapper_White__untitled
+    second: {fileID: 2100000, guid: d6f18bf0b7d8cff42ad318493a6823e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wrapper_YellowGreen__untitled
+    second: {fileID: 2100000, guid: d266d4b9b2c28af4c8e168974549a870, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wrapper_Yellow__untitled
+    second: {fileID: 2100000, guid: 14fa272df02eb0d4cba5b8f09b34b25d, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

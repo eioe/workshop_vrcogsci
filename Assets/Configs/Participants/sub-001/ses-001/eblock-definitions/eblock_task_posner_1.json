@@ -1,0 +1,42 @@
+{
+	"type": "Task",
+	"subType": "Posner",
+	"blockId": "EBlock_Task_Posner_1",
+	"settings": [{
+			"key": "cueDur",
+			"value": "0.04"
+		}, {
+			"key": "isiDur",
+			"value": "0.06"
+		}],
+	"instructions": [{
+			"key": "_start",
+			"value": "Now we have some other cues..."
+		}],
+	"trialSettings": {
+		"keys": ["cueCond", "cueDir", "cueValid", "targetDir", "targetObjIdx", "distractorCond", "distractorObjIdx", "ecc"],
+		"valueList": [{
+				"values": ["exo", "right", "false", "left", 3, "none", "none", "20"]
+			}, {
+				"values": ["exo", "left", "true", "left", 3, "none", "none", "20"]
+			}, {
+				"values": ["exo", "right", "false", "left", 3, "none", "none", "20"]
+			}, {
+				"values": ["exo", "right", "true", "right", 2, "none", "none", "35"]
+			}, {
+				"values": ["exo", "left", "false", "right", 4, "none", "none", "20"]
+			}, {
+				"values": ["exo", "left", "true", "left", 0, "none", "none", "20"]
+			}, {
+				"values": ["exo", "right", "true", "right", 2, "none", "none", "35"]
+			}, {
+				"values": ["exo", "left", "false", "right", 2, "none", "none", "20"]
+			}, {
+				"values": ["exo", "right", "true", "right", 3, "none", "none", "20"]
+			}, {
+				"values": ["exo", "left", "true", "left", 1, "none", "none", "20"]
+			}, {
+				"values": ["exo", "left", "true", "left", 4, "none", "none", "20"]
+			}]
+	}
+}
