@@ -311,7 +311,7 @@ namespace eDia {
             float w_x;
 
             if (pickBestAbsFit) {
-                float angError(float solution) => (getAngle3d(VrCam.transform.InverseTransformPoint(new Vector3(solution, w_y, w_z)), posFix) - eccDeg * Mathf.Deg2Rad);
+                float angError(float solution) => (getAngle3d(GazeVisualizer.transform.InverseTransformPoint(new Vector3(solution, w_y, w_z)), posFix) - eccDeg * Mathf.Deg2Rad);
                 w_x = Mathf.Abs((angError(solution_1) < angError(solution_2)) ? solution_1 : solution_2);
                 w_x = (side == "left") ? -w_x : w_x;
 

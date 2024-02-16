@@ -21,13 +21,13 @@
 		"valueList": [{
 				"values": ["endo", "right", "true", "right", 4, "none", "none", "20"]
 			}, {
-				"values": ["endo", "left", "true", "left", 2, "none", "none", "35"]
+				"values": ["endo", "left", "true", "left", 2, "none", "none", "50"]
 			}, {
 				"values": ["endo", "left", "true", "left", 3, "none", "none", "35"]
 			}, {
 				"values": ["endo", "left", "true", "left", 1, "none", "none", "20"]
 			}, {
-				"values": ["endo", "right", "true", "right", 2, "none", "none", "35"]
+				"values": ["endo", "right", "true", "right", 2, "none", "none", "50"]
 			}, {
 				"values": ["endo", "right", "false", "left", 0, "none", "none", "35"]
 			}, {

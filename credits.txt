@@ -10,3 +10,5 @@ https://sketchfab.com/3d-models/scifi-display-earth-821b2f02f584479bb8dfe5f61f51
 "Simple Garage" by AiKodex (https://www.aikodex.com/) is licensed under the Standard Unity Asset Store EULA (https://unity.com/legal/as-terms).
 https://assetstore.unity.com/packages/3d/props/interior/simple-garage-197251
 
+Assets in Àssets/Prefabs/OVO` are from the OVO database (https://edmond.mpg.de/dataset.xhtml?persistentId=doi:10.17617/3.ANGZTW) which also 
+contains a list with the according the licenses: https://edmond.mpg.de/file.xhtml?fileId=102652&version=1.0 .
