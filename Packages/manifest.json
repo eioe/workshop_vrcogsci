@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "com.edia.core": "git@gitlab.gwdg.de:3dia/edia_framework.git?path=Assets/eDIA",
+    "com.edia.core": "file:../Dependencies/eDIA",
     "com.labstreaminglayer.lsl4unity": "https://github.com/labstreaminglayer/LSL4Unity.git",
     "com.unity.2d.sprite": "1.0.0",
     "com.unity.collab-proxy": "2.2.0",
