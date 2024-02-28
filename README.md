@@ -1,5 +1,5 @@
 
-![Image with impressions from the presentation slides](./img_header_coll3.png)
+![Image with impressions from the presentation slides](./Images/img_header_coll3.png)
 
 <h1>Combining Eye-Tracking and EEG Experiments with immersive Virtual Reality </h1> 
 <h2>Challenges and Opportunities for Cognitive Neuroscientists — a workshop </h2>
@@ -38,7 +38,7 @@ If you run into problems, please do not hesitate to contact me (e.g., via email,
    <details>
    <summary>Screenshot</summary>
     
-   ![Screenshot from Unity Hub](./img_installEditor.png)
+   ![Screenshot from Unity Hub](./Images/img_installEditor.png)
    </details>
 4. Clone this repository to a clean local directory. 
 5. In Unity Hub: click `Add` > select the repository folder.
