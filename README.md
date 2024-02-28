@@ -1,7 +1,7 @@
 
 # WIP!
 
-![VME](./VRCC_header_v0.2.png)
+![Image with impressions from the presentation slides](./img_header_coll2.png)
 
 <h1>Combining Eye-Tracking and EEG Experiments with immersive Virtual Reality </h1> 
 <h2>Challenges and Opportunities for Cognitive Neuroscientists — a workshop </h2>
