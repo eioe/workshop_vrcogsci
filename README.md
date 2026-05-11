@@ -6,7 +6,7 @@
  
 <br/>
 
-[![version](https://img.shields.io/badge/version-2024.2-yellow.svg?maxAge=259200)](#)
+[![version](https://img.shields.io/badge/version-2024.2-yellow.svg)](#)
 
 **By:** Felix Klotzsche
 
